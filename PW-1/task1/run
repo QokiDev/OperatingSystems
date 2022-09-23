@@ -1,0 +1,2 @@
+gcc -o task1 main.c -lm
+./task1
