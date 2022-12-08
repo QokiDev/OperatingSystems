@@ -1,5 +1,5 @@
 #include "function_f.h"
-#include "function_f_g.h"
+#include "function_g.h"
 #include <stdio.h>
 
 int main() {
